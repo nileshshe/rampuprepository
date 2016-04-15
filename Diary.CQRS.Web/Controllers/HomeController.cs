@@ -19,7 +19,7 @@ namespace Diary.CQRS.Web.Controllers
             return View();
         }
         //add method
-        //
+        //000
         public ActionResult Add()
         {
             return View();
