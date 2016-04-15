@@ -18,7 +18,7 @@ namespace Diary.CQRS.Web.Controllers
             ViewBag.Model = ServiceLocator.ReportDatabase.GetItems();
             return View();
         }
-
+        //add method
         public ActionResult Add()
         {
             return View();
