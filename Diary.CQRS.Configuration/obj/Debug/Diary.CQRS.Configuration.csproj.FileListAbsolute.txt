@@ -1,0 +1,10 @@
+D:\123Insight\Diary.CQRS\Diary.CQRS - Copy\Diary.CQRS.Configuration\bin\Debug\Diary.CQRS.Configuration.dll
+D:\123Insight\Diary.CQRS\Diary.CQRS - Copy\Diary.CQRS.Configuration\bin\Debug\Diary.CQRS.Configuration.pdb
+D:\123Insight\Diary.CQRS\Diary.CQRS - Copy\Diary.CQRS.Configuration\bin\Debug\Diary.CQRS.dll
+D:\123Insight\Diary.CQRS\Diary.CQRS - Copy\Diary.CQRS.Configuration\bin\Debug\StructureMap.xml
+D:\123Insight\Diary.CQRS\Diary.CQRS - Copy\Diary.CQRS.Configuration\obj\Debug\Diary.CQRS.Configuration.csprojResolveAssemblyReference.cache
+D:\123Insight\Diary.CQRS\Diary.CQRS - Copy\Diary.CQRS.Configuration\obj\Debug\Diary.CQRS.Configuration.dll
+D:\123Insight\Diary.CQRS\Diary.CQRS - Copy\Diary.CQRS.Configuration\obj\Debug\Diary.CQRS.Configuration.pdb
+D:\123Insight\Diary.CQRS\Diary.CQRS - Copy\Diary.CQRS.Configuration\bin\Debug\StructureMap.dll
+D:\123Insight\Diary.CQRS\Diary.CQRS - Copy\Diary.CQRS.Configuration\bin\Debug\Diary.CQRS.pdb
+D:\123Insight\Diary.CQRS\Diary.CQRS - Copy\Diary.CQRS.Configuration\bin\Debug\StructureMap.pdb
